@@ -11,5 +11,5 @@ Reference books:
 Contents
 ---
 
-1. IPython introduction
+1. [IPython introduction](http://nbviewer.ipython.org/github/nvenkataraman1/quick-python-lessons/blob/master/notebooks/IPythonBasics.ipynb)
 2. Python basics
