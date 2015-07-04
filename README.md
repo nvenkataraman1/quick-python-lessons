@@ -6,7 +6,8 @@ Python learning materials for a beginner-intermediate audience.
 Contents
 ---
 
-1. [IPython introduction](http://nbviewer.ipython.org/github/nvenkataraman1/quick-python-lessons/blob/master/notebooks/IPythonBasics.ipynb)
+1. [IPython introduction](http://nbviewer.ipython.org/github/nvenkataraman1/quick-python-lessons/blob/master/notebooks/1.%20IPythonBasics.ipynb)
+2. [Python Data Types](http://nbviewer.ipython.org/github/nvenkataraman1/quick-python-lessons/blob/master/notebooks/3.%20DataTypes.ipynb)
 
 Reference books:
 
